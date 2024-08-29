@@ -1,0 +1,21 @@
+import = ["/home/main/.config/alacritty/themes/themes/github_dark_default.toml"]
+live_config_reload = true
+
+[font]
+size = 7.5
+
+[font.normal]
+family = "JetBrainsMonoNLNerdFontMono"
+
+[font.offset]
+x = 0
+y = 0
+
+[window]
+decorations = "full"
+dynamic_padding = true
+opacity = 0.9
+
+[window.padding]
+x = 3
+y = 0
